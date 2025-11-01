@@ -129,6 +129,8 @@ $ ./sem.o
 
 
 $ ipcs
+
+
 ![catfile](./image/image2.png)
 
 
